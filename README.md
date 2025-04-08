@@ -1,2 +1,4 @@
 # Class2025.4.8
-frist c# class
+frist c# class hi
+
+
